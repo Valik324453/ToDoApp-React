@@ -1,0 +1,65 @@
+*{
+    margin: 5px;
+    width: 300px;
+    
+}
+
+.create-select{
+
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.task{
+    background-color: mediumseagreen;
+    color: white;
+    border-radius: 5px; 
+    text-align: center;
+}
+
+.create-select{
+    width: 290px;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 5px; 
+}
+
+.create-input{
+    border-radius: 5px; 
+    text-align: center;
+    border: 1px solid black;
+}
+
+h1, h3, h6, p {
+    text-align: center;
+}
+
+
+  
+  /* Gray */
+  .default {
+    border-color: #e7e7e7;
+    color: black;
+    border: 5px solid black;
+    border-radius: 10px;
+    background-color: white;
+    color: black;
+    padding: 14px 28px;
+    font-size: 24px;
+    cursor: pointer;
+  }
+  
+  .default:hover {
+    background: #e7e7e7;
+  }
+    /* Blue */
+  .info {
+    border-color: #2196F3;
+    color: dodgerblue
+  }
+  
+  .info:hover {
+    background: #2196F3;
+    color: white;
+  }
